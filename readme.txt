@@ -2,7 +2,7 @@ Reg. No: MS22911094
 Name: B.M.Isangika Uditha Rathnayaka
 Email: isangika@gmail.com, MS22911094@my.sliit.lk
 Phone: +94773336150
-Github repo: https://github.com/IsangikaRathanayaka/SSA2
+Github repo: https://github.com/IsangikaRathanayaka/SSA
 Video: https://youtu.be/KR4TRcivux4
 
 Installation guide lines for simple gooogle drive file uploader with Oauth.
